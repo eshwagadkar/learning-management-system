@@ -8,5 +8,6 @@ module.exports = {
     'no-unused-vars': 'off',
     'semi': 'off',
     'eslint-disable-quotes': 'off',
+    'react-native/no-inline-styles': 'off',
   },
 };
